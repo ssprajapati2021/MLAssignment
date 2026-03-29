@@ -1,0 +1,10 @@
+{
+    "enable_cell":false,
+    "run_experiments": false,
+    "run_final_model": true,
+    "split_mode": "manual",     
+    "complete_file_path": "D:/Projects/GitHub/MLAssignment/data/complete_data",
+    "train_file_path": "D:/Projects/GitHub/MLAssignment/data/train_data",
+    "valid_file_path": "D:/Projects/GitHub/MLAssignment/data/validation_data",
+    "test_file_path": "D:/Projects/GitHub/MLAssignment/data/test_data"
+}

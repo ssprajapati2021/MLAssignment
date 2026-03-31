@@ -3,14 +3,15 @@
     "enable_cell": false,
     "run_experiments": false,
     "run_final_model": true,
+    "run_augmented_final_model": true,
     "split_mode": "manual",
 
     "paths": {
         "local": {
-            "complete": "D:/Projects/GitHub/MLAssignment/data/complete_data",
-            "train": "D:/Projects/GitHub/MLAssignment/data/train_data",
-            "val": "D:/Projects/GitHub/MLAssignment/data/validation_data",
-            "test": "D:/Projects/GitHub/MLAssignment/data/test_data"
+            "complete": "D:/E Drive/GitHub/MLAssignment/data/complete_data",
+            "train": "D:/E Drive/GitHub/MLAssignment/data/train_data",
+            "val": "D:/E Drive/GitHub/MLAssignment/data/validation_data",
+            "test": "D:/E Drive/GitHub/MLAssignment/data/test_data"
         },
         "colab": {
             "complete": "/content/data/complete_data",
